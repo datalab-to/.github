@@ -30,6 +30,8 @@ Datalab converts PDFs, images, and office documents into Markdown, HTML, and JSO
 | [lift](https://github.com/datalab-to/lift) | Extracts structured data from documents |
 | [pdftext](https://github.com/datalab-to/pdftext) | Extracts structured text from PDFs |
 
+Our model weights are free for research, personal use, and companies under the revenue and funding limits in each repo's license. For commercial use above those limits, or for the more accurate models behind the Datalab API, see [pricing](https://www.datalab.to/pricing?utm_source=gh-org) or [contact us](https://www.datalab.to/contact?utm_source=gh-org).
+
 ## Datalab platform
 
 The same models run on our managed API, in your VPC, or on-prem.
